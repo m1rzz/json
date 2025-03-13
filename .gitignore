@@ -1,8 +1,0 @@
-# Ignore VS Code settings 
-.vscode/
-
-# Ignore resources and library configs
-resources
-main.code-workspace
-Makefile
-Makefile.Android
